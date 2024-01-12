@@ -1,4 +1,4 @@
-# ENCODED BY  : BASIR KH 
+# ENCODED BY  : ishak
 # TEAM : AFGHAN TECH 
 # ENCRYPTION  : Py3 MARSHAL
 # ----------------------------
